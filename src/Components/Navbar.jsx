@@ -1,6 +1,15 @@
+import { useContext } from "react";
 import { Link, NavLink } from "react-router-dom";
+import { AuthContext } from "../Providers/AuthProvider";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import "react-tooltip/dist/react-tooltip.css";
+import { Tooltip } from "react-tooltip";
 
 const Navbar = () => {
+
+    const { user, logOut } = useContext(AuthContext);
+
   const navLinks = (
     <div className="md:space-x-5  md:space-y-0 flex flex-col md:flex-row items-center">
       <NavLink
@@ -22,6 +31,19 @@ const Navbar = () => {
       </NavLink>
     </div>
   );
+
+  const handleSingOut = () => {
+    logOut()
+    .then((result) => {
+        console.log(result)
+        toast("Sign Out successfully");
+      })
+      .catch((error) => {
+        console.log(error)
+        toast("Something wrong, please try again");
+      });
+   };
+
 
   return (
     <div className="navbar bg-base-100">
@@ -59,8 +81,32 @@ const Navbar = () => {
         <ul className="menu menu-horizontal px-1">{navLinks}</ul>
       </div>
       <div className="navbar-end">
-        <Link to="/login" className="btn font-medium">LogIn</Link>
+        {/* <Link to="/login" className="btn font-medium">LogIn</Link> */}
+        <div>
+            {
+                user && (<div role="button" className="btn btn-ghost btn-circle avatar">
+                <div className="w-10 rounded-full">
+                    <div data-tooltip-id="my-tooltip" data-tooltip-content={user.displayName}>
+                      <img src={user.photoURL} alt="" />
+                    </div>
+                </div>
+              </div>)
+            }
+        </div>
+        <div>
+          {user ? (
+            <button onClick={handleSingOut} className="btn bg-red-600 text-white">Sign Out</button>
+          ) : (
+            <div className="flex gap-2">
+              <Link to="/login" className="btn bg-red-400 text-white">
+                Sign In
+              </Link>
+            </div>
+          )}
+        </div>
       </div>
+      <Tooltip id="my-tooltip" />
+      <ToastContainer />
     </div>
   );
 };
