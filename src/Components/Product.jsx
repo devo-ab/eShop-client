@@ -1,6 +1,5 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import { IoIosArrowDropleft, IoIosArrowDropright } from "react-icons/io";
 
 const Product = () => {
   const [products, setProducts] = useState([]);
@@ -203,10 +202,10 @@ const Product = () => {
         <button
           onClick={handlePreviousPage}
           disabled={currentPage === 1}
-          className="btn bg-rose-600 mr-4 tooltip hover:shadow-xl hover:bg-red-400"
+          className="btn bg-rose-600 text-white mr-4 tooltip hover:shadow-xl hover:bg-red-400"
           data-tip="Previous"
         >
-          <IoIosArrowDropleft className="text-2xl" />
+          Previous
         </button>
         <span>
           Page {currentPage} of {totalPages}
@@ -214,10 +213,10 @@ const Product = () => {
         <button
           onClick={handleNextPage}
           disabled={currentPage === totalPages}
-          className="btn ml-4 bg-rose-600 hover:shadow-xl hover:bg-red-400 tooltip"
+          className="btn ml-4 text-white bg-rose-600 hover:shadow-xl hover:bg-red-400 tooltip"
           data-tip="Next"
         >
-          <IoIosArrowDropright className="text-2xl" />
+          Next
         </button>
       </div>
     </div>
