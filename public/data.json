@@ -1,0 +1,543 @@
+[
+      {
+        "serial_number": "SN001",
+        "product_name": "Galaxy S23 Ultra",
+        "product_details": {
+          "screen_size": "6.8 inches",
+          "camera": "200 MP quad-camera",
+          "battery": "5000 mAh",
+          "processor": "Snapdragon 8 Gen 2"
+        },
+        "brand_name": "Samsung",
+        "category_name": "Smartphone",
+        "price": 1199.99
+      },
+      {
+        "serial_number": "SN002",
+        "product_name": "iPhone 15 Pro",
+        "product_details": {
+          "screen_size": "6.1 inches",
+          "camera": "48 MP triple-camera",
+          "battery": "3200 mAh",
+          "processor": "A17 Pro"
+        },
+        "brand_name": "Apple",
+        "category_name": "Smartphone",
+        "price": 999.99
+      },
+      {
+        "serial_number": "SN003",
+        "product_name": "Pixel 8 Pro",
+        "product_details": {
+          "screen_size": "6.7 inches",
+          "camera": "50 MP triple-camera",
+          "battery": "5050 mAh",
+          "processor": "Google Tensor G3"
+        },
+        "brand_name": "Google",
+        "category_name": "Smartphone",
+        "price": 899.99
+      },
+      {
+        "serial_number": "SN004",
+        "product_name": "OnePlus 11T",
+        "product_details": {
+          "screen_size": "6.7 inches",
+          "camera": "50 MP triple-camera",
+          "battery": "4800 mAh",
+          "processor": "Snapdragon 8+ Gen 1"
+        },
+        "brand_name": "OnePlus",
+        "category_name": "Smartphone",
+        "price": 749.99
+      },
+      {
+        "serial_number": "SN005",
+        "product_name": "Xiaomi Mi 13 Pro",
+        "product_details": {
+          "screen_size": "6.73 inches",
+          "camera": "50 MP triple-camera",
+          "battery": "4820 mAh",
+          "processor": "Snapdragon 8 Gen 2"
+        },
+        "brand_name": "Xiaomi",
+        "category_name": "Smartphone",
+        "price": 799.99
+      },
+      {
+        "serial_number": "SN006",
+        "product_name": "Sony Xperia 1 IV",
+        "product_details": {
+          "screen_size": "6.5 inches",
+          "camera": "12 MP triple-camera",
+          "battery": "5000 mAh",
+          "processor": "Snapdragon 8 Gen 1"
+        },
+        "brand_name": "Sony",
+        "category_name": "Smartphone",
+        "price": 1099.99
+      },
+      {
+        "serial_number": "SN007",
+        "product_name": "Oppo Find X6 Pro",
+        "product_details": {
+          "screen_size": "6.82 inches",
+          "camera": "50 MP triple-camera",
+          "battery": "5000 mAh",
+          "processor": "Snapdragon 8 Gen 2"
+        },
+        "brand_name": "Oppo",
+        "category_name": "Smartphone",
+        "price": 849.99
+      },
+      {
+        "serial_number": "SN008",
+        "product_name": "Huawei P60 Pro",
+        "product_details": {
+          "screen_size": "6.67 inches",
+          "camera": "50 MP quad-camera",
+          "battery": "4815 mAh",
+          "processor": "Kirin 9000"
+        },
+        "brand_name": "Huawei",
+        "category_name": "Smartphone",
+        "price": 999.99
+      },
+      {
+        "serial_number": "SN009",
+        "product_name": "Realme GT 2 Pro",
+        "product_details": {
+          "screen_size": "6.7 inches",
+          "camera": "50 MP triple-camera",
+          "battery": "5000 mAh",
+          "processor": "Snapdragon 8 Gen 1"
+        },
+        "brand_name": "Realme",
+        "category_name": "Smartphone",
+        "price": 699.99
+      },
+      {
+        "serial_number": "SN010",
+        "product_name": "Asus ROG Phone 6",
+        "product_details": {
+          "screen_size": "6.78 inches",
+          "camera": "50 MP triple-camera",
+          "battery": "6000 mAh",
+          "processor": "Snapdragon 8+ Gen 1"
+        },
+        "brand_name": "Asus",
+        "category_name": "Gaming Smartphone",
+        "price": 899.99
+      },
+      {
+        "serial_number": "SN011",
+        "product_name": "Vivo X90 Pro",
+        "product_details": {
+          "screen_size": "6.78 inches",
+          "camera": "50 MP triple-camera",
+          "battery": "4870 mAh",
+          "processor": "Dimensity 9200"
+        },
+        "brand_name": "Vivo",
+        "category_name": "Smartphone",
+        "price": 849.99
+      },
+      {
+        "serial_number": "SN012",
+        "product_name": "Nokia X30",
+        "product_details": {
+          "screen_size": "6.43 inches",
+          "camera": "50 MP dual-camera",
+          "battery": "4200 mAh",
+          "processor": "Snapdragon 695"
+        },
+        "brand_name": "Nokia",
+        "category_name": "Smartphone",
+        "price": 499.99
+      },
+      {
+        "serial_number": "SN013",
+        "product_name": "Lenovo Legion Y90",
+        "product_details": {
+          "screen_size": "6.92 inches",
+          "camera": "64 MP dual-camera",
+          "battery": "5600 mAh",
+          "processor": "Snapdragon 8 Gen 1"
+        },
+        "brand_name": "Lenovo",
+        "category_name": "Gaming Smartphone",
+        "price": 799.99
+      },
+      {
+        "serial_number": "SN014",
+        "product_name": "Infinix Zero Ultra",
+        "product_details": {
+          "screen_size": "6.8 inches",
+          "camera": "200 MP triple-camera",
+          "battery": "4500 mAh",
+          "processor": "Dimensity 920"
+        },
+        "brand_name": "Infinix",
+        "category_name": "Smartphone",
+        "price": 599.99
+      },
+      {
+        "serial_number": "SN015",
+        "product_name": "Poco F4 GT",
+        "product_details": {
+          "screen_size": "6.67 inches",
+          "camera": "64 MP triple-camera",
+          "battery": "4700 mAh",
+          "processor": "Snapdragon 8 Gen 1"
+        },
+        "brand_name": "Poco",
+        "category_name": "Gaming Smartphone",
+        "price": 699.99
+      },
+      {
+        "serial_number": "SN016",
+        "product_name": "ZTE Axon 40 Ultra",
+        "product_details": {
+          "screen_size": "6.8 inches",
+          "camera": "64 MP triple-camera",
+          "battery": "5000 mAh",
+          "processor": "Snapdragon 8 Gen 1"
+        },
+        "brand_name": "ZTE",
+        "category_name": "Smartphone",
+        "price": 749.99
+      },
+      {
+        "serial_number": "SN017",
+        "product_name": "Alcatel 3L (2024)",
+        "product_details": {
+          "screen_size": "6.52 inches",
+          "camera": "48 MP triple-camera",
+          "battery": "4000 mAh",
+          "processor": "MediaTek Helio G25"
+        },
+        "brand_name": "Alcatel",
+        "category_name": "Smartphone",
+        "price": 299.99
+      },
+      {
+        "serial_number": "SN018",
+        "product_name": "TCL Stylus 5G",
+        "product_details": {
+          "screen_size": "6.81 inches",
+          "camera": "48 MP quad-camera",
+          "battery": "4000 mAh",
+          "processor": "Dimensity 700"
+        },
+        "brand_name": "TCL",
+        "category_name": "Smartphone",
+        "price": 349.99
+      },
+      {
+        "serial_number": "SN019",
+        "product_name": "LG V70 ThinQ",
+        "product_details": {
+          "screen_size": "6.8 inches",
+          "camera": "64 MP triple-camera",
+          "battery": "5000 mAh",
+          "processor": "Snapdragon 8 Gen 1"
+        },
+        "brand_name": "LG",
+        "category_name": "Smartphone",
+        "price": 899.99
+      },
+      {
+        "serial_number": "SN020",
+        "product_name": "Micromax IN Note 3",
+        "product_details": {
+          "screen_size": "6.78 inches",
+          "camera": "50 MP quad-camera",
+          "battery": "5000 mAh",
+          "processor": "Dimensity 700"
+        },
+        "brand_name": "Micromax",
+        "category_name": "Smartphone",
+        "price": 329.99
+      },
+      {
+        "serial_number": "LN001",
+        "product_name": "Dell XPS 15",
+        "product_details": {
+          "screen_size": "15.6 inches",
+          "processor": "Intel Core i7-13700H",
+          "ram": "16 GB",
+          "storage": "512 GB SSD",
+          "graphics": "NVIDIA GeForce RTX 4050"
+        },
+        "brand_name": "Dell",
+        "category_name": "Laptop",
+        "price": 1899.99
+      },
+      {
+        "serial_number": "LN002",
+        "product_name": "Apple MacBook Pro 16",
+        "product_details": {
+          "screen_size": "16.2 inches",
+          "processor": "Apple M2 Max",
+          "ram": "32 GB",
+          "storage": "1 TB SSD",
+          "graphics": "Integrated"
+        },
+        "brand_name": "Apple",
+        "category_name": "Laptop",
+        "price": 2499.99
+      },
+      {
+        "serial_number": "LN003",
+        "product_name": "HP Spectre x360",
+        "product_details": {
+          "screen_size": "13.5 inches",
+          "processor": "Intel Core i7-1260P",
+          "ram": "16 GB",
+          "storage": "1 TB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "brand_name": "HP",
+        "category_name": "Laptop",
+        "price": 1499.99
+      },
+      {
+        "serial_number": "LN004",
+        "product_name": "Lenovo ThinkPad X1 Carbon Gen 11",
+        "product_details": {
+          "screen_size": "14 inches",
+          "processor": "Intel Core i7-13700U",
+          "ram": "16 GB",
+          "storage": "1 TB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "brand_name": "Lenovo",
+        "category_name": "Laptop",
+        "price": 1899.99
+      },
+      {
+        "serial_number": "LN005",
+        "product_name": "Acer Predator Helios 300",
+        "product_details": {
+          "screen_size": "15.6 inches",
+          "processor": "Intel Core i7-13700H",
+          "ram": "32 GB",
+          "storage": "1 TB SSD",
+          "graphics": "NVIDIA GeForce RTX 4060"
+        },
+        "brand_name": "Acer",
+        "category_name": "Gaming Laptop",
+        "price": 1999.99
+      },
+      {
+        "serial_number": "LN006",
+        "product_name": "Asus ZenBook 14",
+        "product_details": {
+          "screen_size": "14 inches",
+          "processor": "AMD Ryzen 9 7940HS",
+          "ram": "16 GB",
+          "storage": "512 GB SSD",
+          "graphics": "NVIDIA GeForce MX450"
+        },
+        "brand_name": "Asus",
+        "category_name": "Laptop",
+        "price": 1399.99
+      },
+      {
+        "serial_number": "LN007",
+        "product_name": "Microsoft Surface Laptop 5",
+        "product_details": {
+          "screen_size": "15 inches",
+          "processor": "Intel Core i7-1265U",
+          "ram": "16 GB",
+          "storage": "512 GB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "brand_name": "Microsoft",
+        "category_name": "Laptop",
+        "price": 1699.99
+      },
+      {
+        "serial_number": "LN008",
+        "product_name": "Razer Blade 15",
+        "product_details": {
+          "screen_size": "15.6 inches",
+          "processor": "Intel Core i7-13800H",
+          "ram": "16 GB",
+          "storage": "1 TB SSD",
+          "graphics": "NVIDIA GeForce RTX 4070"
+        },
+        "brand_name": "Razer",
+        "category_name": "Gaming Laptop",
+        "price": 2199.99
+      },
+      {
+        "serial_number": "LN009",
+        "product_name": "LG Gram 17",
+        "product_details": {
+          "screen_size": "17 inches",
+          "processor": "Intel Core i7-1365U",
+          "ram": "16 GB",
+          "storage": "1 TB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "brand_name": "LG",
+        "category_name": "Laptop",
+        "price": 1899.99
+      },
+      {
+        "serial_number": "LN010",
+        "product_name": "Dell Inspiron 14",
+        "product_details": {
+          "screen_size": "14 inches",
+          "processor": "Intel Core i5-1335U",
+          "ram": "8 GB",
+          "storage": "512 GB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "brand_name": "Dell",
+        "category_name": "Laptop",
+        "price": 999.99
+      },
+      {
+        "serial_number": "LN011",
+        "product_name": "HP Envy x360 13",
+        "product_details": {
+          "screen_size": "13.3 inches",
+          "processor": "AMD Ryzen 7 7730U",
+          "ram": "16 GB",
+          "storage": "1 TB SSD",
+          "graphics": "AMD Radeon Graphics"
+        },
+        "brand_name": "HP",
+        "category_name": "Laptop",
+        "price": 1399.99
+      },
+      {
+        "serial_number": "LN012",
+        "product_name": "Lenovo Yoga 9i",
+        "product_details": {
+          "screen_size": "14 inches",
+          "processor": "Intel Core i7-1365U",
+          "ram": "16 GB",
+          "storage": "512 GB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "brand_name": "Lenovo",
+        "category_name": "2-in-1 Laptop",
+        "price": 1699.99
+      },
+      {
+        "serial_number": "LN013",
+        "product_name": "Apple MacBook Air M2",
+        "product_details": {
+          "screen_size": "13.6 inches",
+          "processor": "Apple M2",
+          "ram": "8 GB",
+          "storage": "512 GB SSD",
+          "graphics": "Integrated"
+        },
+        "brand_name": "Apple",
+        "category_name": "Laptop",
+        "price": 1399.99
+      },
+      {
+        "serial_number": "LN014",
+        "product_name": "Acer Aspire 5",
+        "product_details": {
+          "screen_size": "15.6 inches",
+          "processor": "AMD Ryzen 5 5500U",
+          "ram": "8 GB",
+          "storage": "256 GB SSD",
+          "graphics": "AMD Radeon Graphics"
+        },
+        "brand_name": "Acer",
+        "category_name": "Laptop",
+        "price": 699.99
+      },
+      {
+        "serial_number": "LN015",
+        "product_name": "Asus TUF Gaming A15",
+        "product_details": {
+          "screen_size": "15.6 inches",
+          "processor": "AMD Ryzen 7 7735HS",
+          "ram": "16 GB",
+          "storage": "512 GB SSD",
+          "graphics": "NVIDIA GeForce RTX 4060"
+        },
+        "brand_name": "Asus",
+        "category_name": "Gaming Laptop",
+        "price": 1299.99
+      },
+      {
+        "serial_number": "LN016",
+        "product_name": "Microsoft Surface Book 3",
+        "product_details": {
+          "screen_size": "15 inches",
+          "processor": "Intel Core i7-1065G7",
+          "ram": "32 GB",
+          "storage": "1 TB SSD",
+          "graphics": "NVIDIA GeForce GTX 1660 Ti"
+        },
+        "brand_name": "Microsoft",
+        "category_name": "2-in-1 Laptop",
+        "price": 2399.99
+      },
+      {
+        "serial_number": "LN017",
+        "product_name": "Razer Blade Stealth 13",
+        "product_details": {
+          "screen_size": "13.4 inches",
+          "processor": "Intel Core i7-1165G7",
+          "ram": "16 GB",
+          "storage": "512 GB SSD",
+          "graphics": "NVIDIA GeForce GTX 1650 Ti"
+        },
+        "brand_name": "Razer",
+        "category_name": "Laptop",
+        "price": 1599.99
+      },
+      {
+        "serial_number": "LN018",
+        "product_name": "LG UltraWide 34WK95U-W",
+        "product_details": {
+          "screen_size": "34 inches",
+          "processor": "Intel Core i5-1135G7",
+          "ram": "16 GB",
+          "storage": "1 TB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "brand_name": "LG",
+        "category_name": "Laptop",
+        "price": 1699.99
+      },
+      {
+        "serial_number": "LN019",
+        "product_name": "Toshiba Dynabook Tecra A50",
+        "product_details": {
+          "screen_size": "15.6 inches",
+          "processor": "Intel Core i5-1240P",
+          "ram": "8 GB",
+          "storage": "512 GB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "brand_name": "Toshiba",
+        "category_name": "Laptop",
+        "price": 1099.99
+      },
+      {
+        "serial_number": "LN020",
+        "product_name": "Samsung Galaxy Book3 Pro",
+        "product_details": {
+          "screen_size": "14 inches",
+          "processor": "Intel Core i7-1355U",
+          "ram": "16 GB",
+          "storage": "512 GB SSD",
+          "graphics": "Intel Iris Xe"
+        },
+        "brand_name": "Samsung",
+        "category_name": "Laptop",
+        "price": 1499.99
+      }
+    ]
+  
